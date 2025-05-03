@@ -1,0 +1,73 @@
+*{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.hero {
+    background-color: #326155;
+    width: 1200px;
+height: 319px;
+}
+.adam {
+    padding-top: 37px;
+    text-align: center;
+    width: 128px;
+height: 128px;
+border-radius: 100px;
+}
+.hero h1 {
+    text-align: center;
+    padding-top: 20px;
+font-weight: 700;
+font-size: 48px;
+color: #FFFFFF;
+}
+.box {
+    width: 583px;
+height: 604px;
+margin-top: 30px;
+background-color: #D7F2EC;
+
+}
+.blog-img {
+    padding-top: 37px;
+    width: 500px;
+height: 273.3875732421875px;
+text-align: center;
+}
+.box h2 {
+font-weight: 700;
+font-size: 36px;
+color: #326155;
+padding-top: 20px;
+text-align: center;
+}
+.box p {
+    padding-top: 20px;
+font-weight: 400px;
+font-size: 16px;
+width: 500px;
+height: 76px;
+top: 444px;
+left: -273px;
+}
+.btn {
+    margin-top: 20px;
+    background-color: #326155;
+font-weight: 700px;
+font-size: 24px;
+color: white;
+width: 500px;
+height: 55px;
+text-align: center;
+}
+.footer {
+    margin-top: 30px;
+    padding-top: 20px;
+    background-color: #326155;
+font-weight: 700px;
+font-size: 24px;
+color: white;
+width: 1200px;
+height: 55px;
+text-align: center;
+}
